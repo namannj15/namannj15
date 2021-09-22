@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img alt="Android Studio" src="https://img.shields.io/badge/Android-Studio-red">
       </p>
       
- ### 🔥 Statistics
+ ## 🔥 Statistics
  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namannj15&theme=algolia" alt="naman jain"  /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namannj15&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=namannj15&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
