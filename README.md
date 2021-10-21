@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  Hello, I am <b>Naman Jain</b> a student from SRM Institute of Science and Technology, Chennai. I am pursuing B.Tech. in Computer Science and Engineering and currently studying in 3rd year.I am interested in app developement.
+  Hello, I am <b>Naman Jain</b> a student from SRM Institute of Science and Technology, Chennai. I am pursuing B.Tech. in Computer Science and Engineering and currently studying in 3rd year.I am interested in App developement.
   </p>
   
   ## 🛠️ My Skills
